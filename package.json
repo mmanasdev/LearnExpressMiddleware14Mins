@@ -1,0 +1,27 @@
+{
+  "name": "learnexpressmiddleware14mins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmanasdev/LearnExpressMiddleware14Mins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmanasdev/LearnExpressMiddleware14Mins/issues"
+  },
+  "homepage": "https://github.com/mmanasdev/LearnExpressMiddleware14Mins#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
